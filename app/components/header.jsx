@@ -35,38 +35,33 @@ const Header = () => {
     <>
       <header>
         <nav className="navbar">
-          <a href="#" className="logo">
+          <a href="/" className="logo">
             MREC
           </a>
           <ul className="nav-menu">
             <li className="nav-item">
-              <a href="#" className="nav-link">
+              <a href="/courses" className="nav-link">
                 Courses
               </a>
             </li>
             <li className="nav-item">
-              <a href="#" className="nav-link">
+              <a href="/activities" className="nav-link">
                 Activities
               </a>
             </li>
             <li className="nav-item">
-              <a href="#" className="nav-link">
+              <a href="/achievements" className="nav-link">
                 Achievements
               </a>
             </li>
             <li className="nav-item">
-              <a href="#" className="nav-link">
+              <a href="/faculty" className="nav-link">
                 Faculty
               </a>
             </li>
             <li className="nav-item">
-              <a href="#" className="nav-link">
+              <a href="/timetables" className="nav-link">
                 Timetables
-              </a>
-            </li>
-            <li className="nav-item">
-              <a href="#" className="nav-link">
-                Toppers
               </a>
             </li>
           </ul>

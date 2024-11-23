@@ -28,7 +28,6 @@ const courses = [
     description:
       "Learn to create modern, responsive web applications using current technologies.",
   },
-  // Add more courses as needed
 ];
 
 export default function Courses() {
